@@ -1,2 +1,2 @@
-# html-portfolia
+# html-portfolio
 This is a portfolio website 
